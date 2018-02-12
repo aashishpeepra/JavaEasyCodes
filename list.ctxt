@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=list
+comment1.params=
+comment1.target=void\ screen()
+comment10.params=
+comment10.target=void\ display_all()
+comment11.params=str
+comment11.target=void\ modify(java.lang.String)
+comment12.params=
+comment12.target=void\ main()
+comment2.params=
+comment2.target=int\ count()
+comment3.params=
+comment3.target=list()
+comment4.params=
+comment4.target=int\ check()
+comment5.params=str\ num
+comment5.target=void\ add_name(java.lang.String,\ java.lang.String)
+comment6.params=str
+comment6.target=void\ add_addr(java.lang.String)
+comment7.params=str
+comment7.target=void\ add_notes(java.lang.String)
+comment8.params=str
+comment8.target=int\ display(java.lang.String)
+comment9.params=
+comment9.target=void\ sort()
+numComments=13
